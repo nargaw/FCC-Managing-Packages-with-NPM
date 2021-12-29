@@ -1,6 +1,7 @@
 {
 	"author": "FCC student",
 	"name": "fcc-learn-npm-package-json",
+	"license": "MIT",
 	"description": "A lesson on managing npm packages like a boss",
 	"keywords": ["npm", "freecodecamp", "code", "backend"],
 	"dependencies": {
