@@ -4,7 +4,12 @@
 	"license": "MIT",
 	"version": "1.0.0",
 	"description": "A lesson on managing npm packages like a boss",
-	"keywords": ["npm", "freecodecamp", "code", "backend"],
+	"keywords": [
+		"npm",
+		"freecodecamp",
+		"code",
+		"backend"
+	],
 	"dependencies": {
 		"express": "^4.14.0",
 		"moment": "2.14.0"
@@ -17,7 +22,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"engines" : {
+	"engines": {
 		"node": "14.x"
 	}
 }
