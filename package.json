@@ -1,6 +1,7 @@
 {
 	"author": "FCC student",
 	"name": "fcc-learn-npm-package-json",
+	"description": "A lesson on managing npm packages like a boss",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
