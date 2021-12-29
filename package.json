@@ -6,7 +6,8 @@
 	"description": "A lesson on managing npm packages like a boss",
 	"keywords": ["npm", "freecodecamp", "code", "backend"],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
