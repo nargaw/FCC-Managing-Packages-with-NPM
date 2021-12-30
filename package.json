@@ -1,15 +1,6 @@
 {
-	"author": "FCC student",
-	"name": "fcc-learn-npm-package-json",
-	"license": "MIT",
-	"version": "1.0.0",
-	"description": "A lesson on managing npm packages like a boss",
-	"keywords": [
-		"npm",
-		"freecodecamp",
-		"code",
-		"backend"
-	],
+	"name": "fcc-learn-node-with-express",
+	"version": "0.1.0",
 	"dependencies": {
 		"express": "^4.14.0",
 		"body-parser": "^1.15.2",
@@ -19,12 +10,5 @@
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	},
-	"engines": {
-		"node": "14.x"
 	}
 }
