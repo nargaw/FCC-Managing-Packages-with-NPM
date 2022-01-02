@@ -46,6 +46,10 @@ app.get("/:word/echo", (req, res) =>{
     //console.log(req.params)
 })
 
+app.get("/name", (req, res) =>{
+    res.json({ name: req.query.first + " " + req.query.last})
+})
+
 
 
 
